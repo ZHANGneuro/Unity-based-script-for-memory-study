@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 41dcd349921864644acbc16fa7fa83b0
+timeCreated: 1491374452
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Fence2: {fileID: 100016, guid: 7ba9490917e8fb644ab242e99c6616aa, type: 3}
+  - Olive_Tree_Prefab: {instanceID: 0}
+  - canvasobject: {instanceID: 0}
+  - textObject: {instanceID: 0}
+  - controller: {fileID: 100000, guid: 5e9e851c0e142814dac026a256ba2ac0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
